@@ -1,2 +1,4 @@
 # do-they-still-name-the-default-branch-master
-test repo to see
+no
+
+they changed to `main`
